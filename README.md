@@ -8,7 +8,6 @@ hasanyildiz0@protonmail.com
 hasanyildiz0@yaani.com
 Mastodon:
 https://mastodon.social/web/@hasanyildiz
-@hasanyildiz@mastodon.social
 
 
 <!---
